@@ -2,7 +2,7 @@
 let db;
 
 // establish connection tin IndexedDB db
-const request = indexedDB.open('budget_tracker', 1);
+const request = indexedDB.open('budget_items', 1);
 
 // emit event if the db version changes
 request.onupgradeneeded = function(event) {
