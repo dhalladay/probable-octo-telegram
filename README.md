@@ -2,7 +2,7 @@
 
   A PWA that allows you to track your budget on the fly!
 
-  ![Screenshot of the budget tracker](assets\screenshot.PNG)
+  ![Screenshot of the budget tracker](./assets/screenshot.PNG)
   
   ## Description
 
